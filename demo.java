@@ -10,7 +10,7 @@ class Date{
     }
 
     public String toString() {
-        return (day +" "+month+" "+year);
+        return (day +"ABCD"+month+" "+year);
     }
 }
 public class Program {
