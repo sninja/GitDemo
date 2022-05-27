@@ -13,6 +13,7 @@ class Date{
         return (day +"ABCD"+month+" "+year);
     }
 }
+System.out.println("Test update");
 public class Program {
     public static void main(String[] args) {
         Date date = null; //new Date(22,03,1996)
